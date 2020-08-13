@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129460743667",
+    "firebase_url": "https://shovia-85fd5.firebaseio.com",
+    "project_id": "shovia-85fd5",
+    "storage_bucket": "shovia-85fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129460743667:android:d830295fa3fa7f8c67b686",
+        "android_client_info": {
+          "package_name": "umn.ac.shovia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129460743667-iudf9tl7cfpr059a0dj5l7fdlhu303h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "umn.ac.shovia",
+            "certificate_hash": "0689eb7c2baf50f497efdae3ac956817d5fe3969"
+          }
+        },
+        {
+          "client_id": "129460743667-5qplobik3m0go3bif44hcdjecsnk2uun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLD1btYW5ha5Vjq-A4I1e9KJ9Uwngf4PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129460743667-5qplobik3m0go3bif44hcdjecsnk2uun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
